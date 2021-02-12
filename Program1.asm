@@ -1,6 +1,6 @@
 ; Programming Project 1 starter file
-; Student Name  : Keshav Narasimhan
-; UTEid: kn9558
+; Student Name  : ___________
+; UTEid: ___________
 ; Modify this code to satisfy the requirements of Project 1
 ; left-rotate a 16-bit number N by B bit positions. 
 ; N is at x30FF; B is is x3100; put result at x3101
