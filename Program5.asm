@@ -1,6 +1,6 @@
 ; Program5.asm
-; Name(s): Keshav Narasimhan, Suriya Senthilkumar
-; UTEid(s): kn9558, ss94282
+; Name(s): ___________
+; UTEid(s): ____________
 ; Continuously reads from x3600 making sure its not reading duplicate
 ; symbols. Processes the symbol based on the program description
 ; of mRNA processing.
