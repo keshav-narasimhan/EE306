@@ -1,7 +1,7 @@
 ;;***********************************************************
 ; Programming Assignment 3
-; Student Name: Keshav Narasimhan
-; UT Eid: kn9558
+; Student Name: ______________
+; UT Eid: ____________
 ; Simba in the Jungle
 ; This is the starter code. You are given the main program
 ; and some declarations. The subroutines you are responsible for
