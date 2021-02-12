@@ -1,6 +1,6 @@
 ; Programming Assignment 2
-; Student Name: Keshav Narasimhan
-; UT Eid: kn9558
+; Student Name: _____________
+; UT Eid: ____________
 ; Linked List creation from array. Insertion into the list
 ; You are given an array of student records starting at location x3500.
 ; The array is terminated by a sentinel. Each student record in the array
