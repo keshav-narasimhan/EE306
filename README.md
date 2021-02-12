@@ -1,0 +1,3 @@
+# EE306
+
+This repository contains the programming assignments I completed for Dr. Yerraballi's EE 306 Introduction to Computing course at the University of Texas at Austin. I took this course during the Fall 2020 semester. In the class, I was able to learn about different number representations (binary & hexadecimal), transistors, logic gates, combinational & sequential logic circuits, memory, and finite state machines. In the class, we used the LC3 ISA, so I was able to learn about LC3 Assembly instructions, addressing modes, instruction set, machine code, and assemblers. By completing programming assignments using LC3 Assembly, I was able to learn about introductory data structures, I/O, TRAPs, subroutines, and interrupts.  
