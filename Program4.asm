@@ -1,6 +1,6 @@
 ;***********************************************************
 ; Programming Assignment 4
-; Student Name: ____________
+; Student Name: Keshav Narasimhan
 ; UT Eid: ___________
 ; -------------------Save Simba (Part II)---------------------
 ; This is the starter code. You are given the main program
