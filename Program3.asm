@@ -1,6 +1,6 @@
 ;;***********************************************************
 ; Programming Assignment 3
-; Student Name: ______________
+; Student Name: Keshav Narasimhan
 ; UT Eid: ____________
 ; Simba in the Jungle
 ; This is the starter code. You are given the main program
